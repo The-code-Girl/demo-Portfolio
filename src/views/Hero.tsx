@@ -15,7 +15,6 @@ import { motion } from "framer-motion";
 // utils
 import { transition } from "../utils/transition";
 import { fadeIn, scale } from "../utils/variants";
-import { Home } from "@mui/icons-material";
 
 const Hero = () => {
   return <div id='home' className="min-h-screen flex items-center justify-center relative"
