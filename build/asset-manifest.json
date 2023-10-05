@@ -1,13 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.1bd0995e.css",
-    "main.js": "/static/js/main.b2604d20.js",
+    "main.css": "/static/css/main.856b67a4.css",
+    "main.js": "/static/js/main.dcc4dfc1.js",
+    "static/media/projects-page.svg": "/static/media/projects-page.a288ad051245dde972b95af641c0190d.svg",
+    "static/media/about-me-page.svg": "/static/media/about-me-page.de79a72938ed30948f5289360b9f8b19.svg",
+    "static/media/home-page.svg": "/static/media/home-page.3d99bbe3e9e69e026163d1257c19de1c.svg",
+    "static/media/about-illustration.svg": "/static/media/about-illustration.71feca1f6210ad9210ca9ecccabd0ad3.svg",
+    "static/media/contact-page.svg": "/static/media/contact-page.bb6dd0d5c4b36d67c1d4383d9a597201.svg",
+    "static/media/contact-illustration.svg": "/static/media/contact-illustration.309107b7faed5e5dd0680a8772fd9feb.svg",
+    "static/media/hero-illustration.svg": "/static/media/hero-illustration.70b54107e0c76f2b14efa9e9fc862fd9.svg",
+    "static/media/food.svg": "/static/media/food.6d6b3f02669b61f72360712cb70f11c2.svg",
+    "static/media/github.svg": "/static/media/github.5531be85d7a8d6f333e5c7136944a022.svg",
+    "static/media/search.svg": "/static/media/search.ae26fc32022f6fef8c4d6693d4a30306.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.fad6cb3b7ce0a6b6474fa2bc8ce52bc7.svg",
+    "static/media/expense1.svg": "/static/media/expense1.652d6915384088c5c6743fbdf6024ecf.svg",
+    "static/media/mail1.svg": "/static/media/mail1.1796d75f8fa6b23c9f798899326aed67.svg",
+    "static/media/piano.svg": "/static/media/piano.1353d9aec38939cf89b0c94ce6256255.svg",
+    "static/media/calculator.svg": "/static/media/calculator.7f1eac4e4633866915fe1d20f712526f.svg",
+    "static/media/screen.svg": "/static/media/screen.47bfcb8f9ddb4d97e9cdcee62d85c8d4.svg",
     "index.html": "/index.html",
-    "main.1bd0995e.css.map": "/static/css/main.1bd0995e.css.map",
-    "main.b2604d20.js.map": "/static/js/main.b2604d20.js.map"
+    "static/media/download-btn-icon.svg": "/static/media/download-btn-icon.db00ff1fa6f1d172b12f9e1441c6d79c.svg",
+    "main.856b67a4.css.map": "/static/css/main.856b67a4.css.map",
+    "main.dcc4dfc1.js.map": "/static/js/main.dcc4dfc1.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bd0995e.css",
-    "static/js/main.b2604d20.js"
+    "static/css/main.856b67a4.css",
+    "static/js/main.dcc4dfc1.js"
   ]
 }
