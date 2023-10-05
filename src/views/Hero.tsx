@@ -43,7 +43,7 @@ const Hero = () => {
              <Button icon={downloadIcon}>Download CV</Button>
            </motion.div>
           </div>
-          <motion.img  variants={scale()} initial="hidden" whileInView='visible' viewport={{once : false}} transition={transition()} src={homePageIllustation} className='max-w-full sm:max-w-[410px]'/>
+          <motion.img  variants={scale()} initial="hidden" whileInView='visible' viewport={{once : false}} transition={transition()} src={homePageIllustation} alt="main"className='max-w-full sm:max-w-[410px]'/>
        </div>
        <div className="absolute bottom-0 left-0 w-full h-[1px] bg-divider"/>
     </div>;

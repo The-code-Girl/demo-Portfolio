@@ -32,7 +32,7 @@ const Contact = () => {
 
  
 
-<motion.img  variants={scale()} initial="hidden" whileInView='visible' viewport={{once : false}} transition={transition()} src={contactIllustration} alt="" className="max-h-[348px]"/>
+<motion.img  variants={scale()} initial="hidden" whileInView='visible' viewport={{once : false}} transition={transition()} src={contactIllustration} alt="contact" className="max-h-[348px]"/>
 </div>
 
 <motion.div variants={fadeIn('up')} initial="hidden" whileInView='visible' viewport={{once : false}} transition={transition()}className="flex-1 flex flex-col gap-6 w-full max-w-[696px]">

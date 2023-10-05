@@ -52,7 +52,7 @@ I invite you to explore my portfolio to see some of my recent projects. If you'r
         </motion.div>
       </div>
       <div className="flex-1 flex items-center justify-center">
-          <motion.img  variants={scale()} initial="hidden" whileInView='visible' viewport={{once : false}} transition={transition()}src={aboutIllustration} alt="" className="max-w-full sm:max-w-[401px]"/>
+          <motion.img  variants={scale()} initial="hidden" whileInView='visible' viewport={{once : false}} transition={transition()}src={aboutIllustration} alt="about" className="max-w-full sm:max-w-[401px]"/>
         </div>
     </div>
            <div className="absolute bottom-0 left-0 w-full h-[1px] bg-divider"/>

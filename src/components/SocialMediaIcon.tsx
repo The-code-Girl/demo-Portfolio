@@ -14,7 +14,7 @@ const SocialMediaIcon: FC<SocialMediaIconProps> = ({ imgSrc, title }) => {
     <Tooltip title={title} placement="bottom" arrow>
       <div className="flex items-center justify-center h-12 w-12 rounded-full bg-icons cursor-pointer
       hover:bg-secondary transition-all ease-linear duration-300">
-        <img src={imgSrc} alt=''/>
+        <img src={imgSrc} alt="media"/>
       </div>
     </Tooltip>
   );

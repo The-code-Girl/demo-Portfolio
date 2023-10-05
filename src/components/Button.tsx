@@ -19,7 +19,7 @@ const Button: FC<ButtonProps> = ({ children, secondary, icon, onClick }) => {
     <p className="[text-shadow:_0_4px_4px_rgb(0_0_0_/_50%)]">
       {children}
     </p>
-    <img src={icon} alt=""/> 
+    <img src={icon} alt="button"/> 
   </div>
       ):(
          <p className="[text-shadow:_0_4px_4px_rgb(0_0_0_/_50%)]">
